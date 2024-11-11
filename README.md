@@ -104,7 +104,7 @@ To run this analysis:
    pip install pandas numpy matplotlib seaborn
 
    ```
-3. Run the .ipynb file Jupyter Notebook to execute the code and view the visualizations.
+3. Run the GooglePlaystore.ipynb file Jupyter Notebook to execute the code and view the visualizations.
 
 
 ## Author
